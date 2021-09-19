@@ -12,7 +12,7 @@
 
 方法一：快速排序，即每轮选取一个基准值，把比基准值小的放在左侧，比基准值大的放在它的右侧。采用递归的方式达到排序的效果。
 
-![](D:\360download\Typora\ProcessOn\图片\数组中的第k个最大元素（1）.jpg)
+![](https://img-blog.csdnimg.cn/a8bdc70df3fe4aafa13daa00dcdee0ac.jpg?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAdG9tY2F0MzMzMzMz,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
 
 
 
@@ -59,7 +59,7 @@ public class QuickSort {
 
 方法二：堆排序，主要做两件事：构造大/小顶堆，交换堆顶元素与堆尾元素，调整堆结构
 
-![](D:\360download\Typora\ProcessOn\图片\数组中的第k个最大元素（2）.jpg)
+![](https://img-blog.csdnimg.cn/ba888f73a1034d75869c907f0044e258.jpg?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAdG9tY2F0MzMzMzMz,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
 
 
 
